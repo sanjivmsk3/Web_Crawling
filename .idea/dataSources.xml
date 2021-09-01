@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="data" uuid="ec3e3f8e-f42d-457b-b897-ca0f5da96a83">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\snvms\PycharmProjects\Scrapy\data\data\data.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="myquotes" uuid="c7c2fb72-388b-4aab-9bbe-0fc0d63f0d4a">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\snvms\PycharmProjects\Scrapy\data\myquotes.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
